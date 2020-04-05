@@ -6,6 +6,7 @@ public class Alumnos {
 		// TODO Auto-generated method stub
 		System.out.println("Hola mundo");
 		System.out.println("Adios Mundou");
+		System.out.println("Cambio usuario1");
 	}
 
 }

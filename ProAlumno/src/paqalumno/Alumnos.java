@@ -7,6 +7,8 @@ public class Alumnos {
 		System.out.println("Hola mundo");
 		System.out.println("Adios Mundou");
 		System.out.println("Cambio usuario1");
+		System.out.println("Cambio usuario1");
+		System.out.println("Cambio user2");
 	}
 
 }
